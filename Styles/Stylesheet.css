@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	margin: auto;
+	width:100%;
+	
+	
+	
+}
+
+#banner {
+	width: 100%;
+	font-family: "Comic Sans MS", cursive;
+background-color: #CF9;
+}
+#menu ul{
+list-style-type:none;
+padding:0px;
+margin:0px;
+}
+ 
+#menu ul li{
+display:inline;
+}
+ 
+#menu ul a
+{
+	text-decoration: none;
+	width: 247px;
+	float: left;
+	background: #000;
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
+	line-height: normal;
+	border-left: 1px solid #fff;
+	font-size: 12px;
+	font-family: "Comic Sans MS", cursive;
+}
+
+#Maincontent {
+	width: 100%;
+	float: left;
+	width: 100%;
+	float: left;
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	text-align: left;
+	margin:auto;
+	Color:#000;
+	
+
+}
+
+
+}
